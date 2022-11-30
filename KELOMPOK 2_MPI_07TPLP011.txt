@@ -1,0 +1,16 @@
+Perancangan Aplikasi Manajemen Kas Masjid Jami' Al-Barokah
+
+Kelompok 2 :
+Lestiani   191011402626
+Apriliani  191011402635
+Dede Yulyandri 191011401126
+
+Note :
+Nama Database : kas_masjid
+
+
+User : 
+ 
+admin => password = admin
+DKM => password = dkm
+Bendahara1 => password = bendahara
